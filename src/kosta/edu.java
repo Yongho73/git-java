@@ -5,6 +5,6 @@ public class edu {
 		System.out.println("hello world");
 		
 		
-		System.out.println("issu2-1");
+		System.out.println("issu2-2");
 	}
 }
