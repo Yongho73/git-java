@@ -8,5 +8,6 @@ public class edu {
 		System.out.println("issu3");
 		
 		System.out.println("master1");
+		System.out.println("master2");
 	}
 }
