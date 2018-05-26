@@ -6,6 +6,6 @@ public class edu {
 		
 		
 		System.out.println("issu1");
-		System.out.println("issu2");
+		System.out.println("issu3");
 	}
 }
