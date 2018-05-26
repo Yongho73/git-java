@@ -13,5 +13,6 @@ public class edu {
 		System.out.println("master4");
 		System.out.println("master5");
 		System.out.println("master6");
+		System.out.println("master7");
 	}
 }
